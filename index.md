@@ -16,15 +16,9 @@ Hi, i'm Daniel, an aspiring programmer.
 
 ![Lebron James](https://www.usatoday.com/gcdn/authoring/authoring-images/2024/12/03/USAT/76735276007-usatsi-24895997.jpg)
 
-## Here lies an efficient piece of code (Java)!
+## Here lies my favorite line of code (Python)!
 ```
-public static int main(){
-    System.print.ln(1);
-    System.print.ln(2);
-    System.print.ln(3);
-    System.print.ln(4);
-    System.print.ln(5);
-}
+print("Testing Testing")
 ```
 
 ## Good links
