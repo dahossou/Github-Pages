@@ -4,7 +4,9 @@ Hi, i'm Daniel, an aspiring programmer.
 
 ## My favorite languages are 
 
-Java, Python, and C++
+1. Java
+2. Python
+3. C++
 
 ## My favorite saying
 
@@ -16,7 +18,7 @@ Java, Python, and C++
 
 ## Here lies an efficient piece of code !
 
-'''java
+
 public static int main(){
     System.print.ln(1);
     System.print.ln(2);
@@ -32,9 +34,9 @@ public static int main(){
 
 ## Life Checklist
 
-[x] Be born
-[x] Make it to college
-[] Get rich or die trying
+- [x] Be born
+- [x] Make it to college
+- [] Get rich or die trying
 
 ## Things I enjoy
 
