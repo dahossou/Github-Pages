@@ -16,8 +16,7 @@ Hi, i'm Daniel, an aspiring programmer.
 
 ![Lebron James](https://www.usatoday.com/gcdn/authoring/authoring-images/2024/12/03/USAT/76735276007-usatsi-24895997.jpg)
 
-## Here lies an efficient piece of code !
-
+## Here lies an efficient piece of code (Java)!
 ```
 public static int main(){
     System.print.ln(1);
@@ -30,8 +29,8 @@ public static int main(){
 
 ## Good links
 [Here's my favorite saying](#My Favorite Saying)
-[Github](https://github.com)
-[Picture of My favorite soccer team!](https://cdn.footballcoin.io/wp-content/uploads/2023/12/alexander-arnold-and-szoboszlai-1024x576.jpeg)
+[My Github](https://github.com/dahossou)
+[Picture of My favorite soccer team!](https://cdn.footballcoin.io/wp-content/uploads/2023/12/alexander-arnold-and-szoboszlai-1024x576.jpg)
 
 
 ## Life Checklist
