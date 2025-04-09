@@ -8,7 +8,7 @@ Hi, i'm Daniel, an aspiring programmer.
 2. Python
 3. C++
 
-## My favorite saying
+## Saying
 
 >"I do not want to get killed today at all." ~ Someone smart
 
@@ -22,7 +22,7 @@ print("Testing Testing")
 ```
 
 ## Good links
-- [Here's my favorite saying](#My favorite saying)
+- [Here's my favorite saying](#Saying)
 - [My Github](https://github.com/dahossou)
 ![Picture of My favorite soccer team!](https://static.independent.co.uk/2024/11/02/21/SEI228115512.jpg)
 
@@ -31,7 +31,7 @@ print("Testing Testing")
 
 - [x] Be born
 - [x] Make it to college
-- [] Get rich or die trying
+- [ ] Get rich or die trying
 
 ## Things I enjoy
 
