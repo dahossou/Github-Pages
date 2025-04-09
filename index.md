@@ -24,7 +24,7 @@ print("Testing Testing")
 ## Good links
 [Here's my favorite saying](#My Favorite Saying)
 [My Github](https://github.com/dahossou)
-[Picture of My favorite soccer team!](https://static.independent.co.uk/2024/11/02/21/SEI228115512.jpg)
+![Picture of My favorite soccer team!](https://static.independent.co.uk/2024/11/02/21/SEI228115512.jpg)
 
 
 ## Life Checklist
