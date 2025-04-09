@@ -29,13 +29,13 @@ public static int main(){
 ## Good links
 [Top of Page](#-welcome-to-my-user-page)
 [Github](https://github.com)
-![Picture of My favorite soccer team!](https://cdn.footballcoin.io/wp-content/uploads/2023/12/alexander-arnold-and-szoboszlai-1024x576.jpeg)
+[Picture of My favorite soccer team!](https://cdn.footballcoin.io/wp-content/uploads/2023/12/alexander-arnold-and-szoboszlai-1024x576.jpeg)
 
 ## Life Checklist
 
--[x] Be born
--[x] Make it to college
--[] Get rich or die trying
+- [x] Be born
+- [x] Make it to college
+- [] Get rich or die trying
 
 ## Things I enjoy
 
